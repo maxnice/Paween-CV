@@ -2,8 +2,8 @@
 
 Feel free to explore my resume with portfolio.
 
-💡 **Current interest position** 💡 <br>
-Find his:
+💡 **Current interested position** 💡 <br>
+including:
 - Data Analyst
 - Business Analyst
 - Product Manager
